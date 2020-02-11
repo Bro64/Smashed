@@ -1,0 +1,17 @@
+Bro64 Smashed Specifications
+
+Dev Environment Needed
+- Git/Github Set Up
+- Updating .N64 file with project files
+	- Poll project directory
+		- if any file modified after last .N64 file created
+		- then 
+			- delete two files: .N64 and .out
+			- run C://make.bat
+
+Bro64 Smashed b0.001
+- Simple collsions
+	- Two squares & one platform
+	- Jumping from platform
+	- Square A pushes square B if collide
+		
