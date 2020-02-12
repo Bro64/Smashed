@@ -1,5 +1,7 @@
 Bro64 Smashed Specifications
 
+// shit on my cock test test testaroonie
+
 How to Compile & Test:
 - Delete old .N64 and .out
 - Run C://make.bat on Bro64 Win XP VM
